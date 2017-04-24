@@ -1,5 +1,5 @@
 /**
- * Actions
+ * Actions: Function objects.
  */
 export function CounterActions() {
     return {
