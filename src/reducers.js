@@ -2,7 +2,7 @@
  * Reducers
  */
 const initialState = {
-    counter: 0
+    counter: 10
 };
 
 function counterApp(state, action) {
